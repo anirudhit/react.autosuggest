@@ -1,0 +1,66 @@
+/*Borders*/
+.br-l-1{
+  border-left: 1px solid #eeeeee;
+}
+/*Cursors*/
+.cursor-pointer{
+  cursor: pointer;
+}
+/*Images*/
+.img-32-36{
+  height: 36px;
+  width: 32px;
+}
+/*Margins*/
+.mr-t-5{
+  margin-top: 5px;
+}
+.mr-b-5{
+  margin-bottom: 5px;
+}
+.reset-mr{
+  margin: 0;
+}
+.reset-mr-imp{
+  margin: 0 !important;
+}
+/*Paddings*/
+.pd-l-5{
+  padding-left: 5px;
+}
+.pd-l-10{
+  padding-left: 10px;
+}
+.pd-l-15{
+  padding-left: 15px;
+}
+.pd-l-20{
+  padding-left: 20px;
+}
+.reset-pd{
+  padding: 0;
+}
+.reset-pd-t-imp{
+  padding-top: 0 !important;
+}
+/*Positions*/
+.pos-rel{
+  position: relative;
+}
+.search-pos{
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  color: #999999;
+}
+.reset-input-pd{
+  padding-left: 22px !important;
+}
+.clearfix{
+  clear: both;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
